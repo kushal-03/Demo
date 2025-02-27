@@ -1,2 +1,2 @@
 # Demo
-Polyechin college
+Polytechnic College
